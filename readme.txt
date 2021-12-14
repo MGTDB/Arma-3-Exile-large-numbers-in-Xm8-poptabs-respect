@@ -1,4 +1,4 @@
-![Xm8](https://github.com/MGTDB/Arma-3-Exile-large-numbers-in-Xm8-poptabs-respect/blob/main/Xm8.jpg?raw=true "Title")
+![Screenshot](Xm8.jpg)
 
 This script fixes the issue with numbers larger than 1 million in poptabs in locker or respect
 Place the ExileClient_gui_xm8_slide_apps_onOpen.sqf file in your custom folder
